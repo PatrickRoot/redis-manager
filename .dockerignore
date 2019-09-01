@@ -1,0 +1,12 @@
+.git
+src
+redis-manager.iml
+README.md
+pom.xml
+mvnw
+mvnw.cmd
+LICENSE
+target/classes/
+target/generated-sources/
+target/generated-test-sources/
+test-classes/
